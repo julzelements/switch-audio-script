@@ -1,5 +1,5 @@
 # Why? 
-## I like to have the certain audio inputs and outputs preferenced over others. This is an easy way of doing it.
+## Every time I plug in my audio interface, I have to adjust the system settings to send the audio out to my studio display. This script is a shortcut.
 # SETUP
 1. `brew install switchaudio-osx`
 2. add the script somewhere
